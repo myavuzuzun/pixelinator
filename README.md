@@ -1,6 +1,6 @@
 # pixelinator
 
-lightweight, 100% offline, zero-AI native desktop pixel art converter built in rust with `eframe` / `egui`.
+lightweight pixel art converter built in rust with `eframe` / `egui`.
 
 ## screenshots
 
